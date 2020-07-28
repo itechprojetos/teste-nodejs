@@ -2,9 +2,9 @@
 Teste aplicado pela Itech, para desenvolvedores NodeJS
 
 Introdução:
-Criar uma aplicação para realizar o cadastro de programadores da empresa Easycomtec. O cadastro deve conter todos os campos do formulário https://www.easycomtec.com/talents
+Criar uma aplicação para realizar o cadastro de programadores da empresa ItecHub. O cadastro deve conter todos os campos do formulário https://www.easycomtec.com/talents
 Pode ser algo simples. O objetivo do exercício é apenas separar o cara que fala que sabe e nem consegue o básico, daqueles que sabem.
-O CRUD pode ser feito em Asp.Net ou Node.js, escolher a linguagem baseado-se na vaga para qual o teste será aplicado.
+O CRUD deve ser feito em Node.js como tecnologia de back-end.
 
 Tecnologias a serem utilizadas (Teste Node.js)
 Node.js
