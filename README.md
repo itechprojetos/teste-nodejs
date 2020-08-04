@@ -22,7 +22,7 @@ Pontuação Máxima: 150 (100 pontos + 50 bônus)
 
 Regra de negócio (30 pts ~ 50 pts)
 
-O sistema é sobre gerenciamento de talentos da Easy. (+5)
+O sistema é sobre gerenciamento de talentos da Itech, tendo como base o modelo do link acima.. (+5)
 C: É possível cadastrar os candidatos (+5)
 R: É possível listar os candidatos. (+5)
 U: É possível alterar as informações de um candidato. (+5)
